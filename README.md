@@ -63,9 +63,9 @@ Communication | Adaptability | Problem Solving | Teamwork | Continuous Learning
 
 ---
 ### Connect With Me
-**LinkedIn:**
+**LinkedIn:**https://www.linkedin.com/in/sneha-kandala-608b2022a
 
-**GitHub:**
+**GitHub:**https://github.com/Snehakandala0101
 
 ---
 Feel free to explore my repositories and connect with me!
