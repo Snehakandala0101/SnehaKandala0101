@@ -1,16 +1,16 @@
-# Hi, I'm Sneha 👋
-💻**Entry level Software Engineer**  |
-**Web Development** & **AI Enthusiast**
+# 👋Hi, I'm Sneha Kandala 
+💻**Aspiring Backend Developer(Python)**  
+**Backend Development | APIs | Machine Learning Foundations** |
+**Building real-world projects and documenting my learning journey**
 
 ---
 ### 🚀 Skills
 - **Programming:** Python,JavaScript
 - **Web Technologies:** HTML,CSS
 - **DataBase:** MySQL
-- **Tools & Platforms:** GitHub,MATLAB,SIMULINK,LabVIEW
-- **Concepts:** OOP,Data Structures ,Responsive Web Design
-- **AI:** MAchine Learning,Generative AI,RAG
-- MS Excel
+- **Tools & Platforms:** Git & GitHub,VS Code
+- **Concepts:** OOP,Data Structures
+- **AI:** Machine Learning,Generative AI,RAG,OpenCV,NumPy
 
 ---
 ### 🧠Projects
@@ -25,41 +25,13 @@
 - Implemented search functionality, dynamic rendering and clean UI components.
 - Demonstrated understanding of REST APIs and frontend architecture.
 
-📊**QR Code Scanner** - LabVIEW
-- Real-time QR code scanning system.
-- Designed front-panel UI and blockdiagram logic for image acquisition and data extraction.
-- Integrated camera module and optimised scanning accuracy.
+
 
 ---
-### 💼Experience
-**Computer Vision Intern** - Suntek corp Solutions pvt. ltd. 
-- Worked on Image Processing,LBPH model training, Preprocessing,and Webcam based predictions.
-- Strengthened computer vision concepts and accuracy tuning.
-
-**Intern** - Techfluent Pvt. ltd.
-- Gained experience in graphical system design and realtime automation.
-- Built QR Code Scanning project using LabVIEW with graphical workflows.
-
----
-### 🌱Currently Learning
-- JavaScript(Advanced)
-- React
+### 🌱Current Focus
+ 
 - Backend Development
-
----
-### 👩‍🎓Education
-**B.E. Electrical and Electronics Engineering**
-MVSR Engineering College,Hyderabad
-
----
-### 📋Certifications
-- GenAI mastermind Program- Outskill
-- SAWIT.AI Gen AI Learnathon Program
-- ML Engineer Certification- Telecom Skill Sector Council
-
----
-### 💡Strengths
-Communication | Adaptability | Problem Solving | Teamwork | Continuous Learning
+- AI
 
 ---
 ### Connect With Me
